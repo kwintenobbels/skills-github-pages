@@ -1,3 +1,9 @@
+layout: page
+title: "about "
+permalink: /https://kwintenobbels.github.io/skills-github-pages/about
+
+
+
 # Wat is wiskunde op maat? 
 
 
