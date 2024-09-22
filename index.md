@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Website wiskunde op maat
 ---
 
 # Over wiskunde op maat 
